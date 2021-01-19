@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.8)  19 JAN 2021 12:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.8)  19 JAN 2021 15:27
 entering extended mode
 **"c:/Users/Edumus/Desktop/mustafa Kişisel/Github Repositories/Myhomework4/My-Homework-4/hw4.tex"
 ("c:/Users/Edumus/Desktop/mustafa Kişisel/Github Repositories/Myhomework4/My-Homework-4/hw4.tex"
@@ -321,35 +321,50 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-Overfull \hbox (32.56288pt too wide) in paragraph at lines 33--50
+Overfull \hbox (30.9629pt too wide) in paragraph at lines 40--57
  [][][][] 
  []
 
 [1
 
 {C:/Users/Edumus/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 
  []
 
 [2]
-Overfull \hbox (1.36449pt too wide) in paragraph at lines 77--77
+Overfull \hbox (1.36449pt too wide) in paragraph at lines 91--91
 []\OT1/cmr/bx/n/10.95 Setup an ex-am-ple RSA pub-lic/pri-vate key pair us-ing primes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
  []
 
 [3] ("c:/Users\Edumus\Desktop\mustafa Kişisel\Github Repositories\Myhomework4\My-Homework-4\hw4.aux") ) 
 Here is how much of TeX's memory you used:
- 7894 strings out of 479697
- 156524 string characters out of 2866658
- 425046 words of memory out of 3000000
- 24903 multiletter control sequences out of 15000+200000
- 411384 words of font info for 56 fonts, out of 3000000 for 9000
+ 7897 strings out of 479697
+ 156566 string characters out of 2866658
+ 424046 words of memory out of 3000000
+ 24905 multiletter control sequences out of 15000+200000
+ 411725 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,11n,76p,344b,542s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on "c:/Users\Edumus\Desktop\mustafa Kişisel\Github Repositories\Myhomework4\My-Homework-4\hw4.pdf" (3 pages, 100885 bytes).
+ 68i,11n,76p,331b,542s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Edumus\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Edumus/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on "c:/Users\Edumus\Desktop\mustafa Kişisel\Github Repositories\Myhomework4\My-Homework-4\hw4.pdf" (3 pages, 110818 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
+ 53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
